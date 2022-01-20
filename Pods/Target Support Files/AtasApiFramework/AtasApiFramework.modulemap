@@ -1,0 +1,6 @@
+framework module AtasApiFramework {
+  umbrella header "AtasApiFramework-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,16 @@
+PODS:
+  - AtasApiFramework (1.0.2)
+
+DEPENDENCIES:
+  - AtasApiFramework
+
+SPEC REPOS:
+  https://github.com/CocoaPods/Specs.git:
+    - AtasApiFramework
+
+SPEC CHECKSUMS:
+  AtasApiFramework: a80d8c5a065b4aea6b1349c0e877030441c3983c
+
+PODFILE CHECKSUM: 267d59bd96a2dafffb3144c53844ce3ff2e20d0d
+
+COCOAPODS: 1.11.0

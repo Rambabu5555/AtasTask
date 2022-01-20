@@ -1,0 +1,6 @@
+framework module Pods_Atas_Ram_TaskTests {
+  umbrella header "Pods-Atas_Ram_TaskTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
